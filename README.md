@@ -1,1 +1,1 @@
-# auto-backup-db-discord
+# AUTO BACKUP DATABASE FOR HOSTING USING DISCORD BOT
