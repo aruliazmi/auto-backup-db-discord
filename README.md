@@ -56,7 +56,7 @@ EXCLUDED_DATABASES=mysql,information_schema,performance_schema (berisi database 
 ## 🧪 Menjalankan Bot
 
 ```bash
-python3 bot.py
+python3 auto.py
 ```
 
 ---
