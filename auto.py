@@ -3,7 +3,6 @@ import time
 from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 
-# === Path ke file bot utama ===
 BOT_FILE = "bot.py"
 PROCESS = None
 
